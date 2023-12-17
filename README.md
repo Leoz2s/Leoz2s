@@ -5,7 +5,7 @@ I'm a full stack WEB developer from São Paulo, Brazil.
 
 I come from a industrial background where i used to program on Ladder language. Currently in carrer transition to the Developer universe 🌌
 
-More info about me on my LinkedIn (feel free to contact me 😄).
+More info about me on my [LinkedIn](https://www.linkedin.com/in/leoz2s/) (feel free to contact me 😄).
 
 
 ## 🛠 Skills
