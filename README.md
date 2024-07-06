@@ -9,10 +9,7 @@ More info about me on my [LinkedIn](https://www.linkedin.com/in/leoz2s/) (feel f
 
 
 ## 🛠 Skills
-Learning: JavaScript, HTML and CSS.
-
-Interested in: Node.js and React.
-
+JavaScript, HTML, CSS, Node.js and React.js.
 
 ## 🔗 Link
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoz2s/)
