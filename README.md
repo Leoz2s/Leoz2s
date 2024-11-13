@@ -10,7 +10,7 @@ Now I'm a fullstack software developer. I have better domain on JS ecosystem for
 More info about me on my [LinkedIn](https://www.linkedin.com/in/leoz2s/).
 
 ## 🛠 Tech Skills
-JavaScript, Node.js, React.js, SQL, HTML and CSS.
+TypeScript, Node.js, React.js, SQL, JavaScript, HTML and CSS.
 
 ## 🔗 Link
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoz2s/)
